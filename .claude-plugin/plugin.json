@@ -1,0 +1,8 @@
+{
+  "name": "read-paper",
+  "description": "Deep academic paper analysis with bilingual (English/Chinese) output. Analyzes research papers from PDF paths, pasted text, or arXiv links, producing structured reports covering background, related work, contributions, methods, and experiments — saved to ~/Papers/.",
+  "author": {
+    "name": "Xiaotian Zhao",
+    "email": "zhaoxiaotian.0701@gmail.com"
+  }
+}
