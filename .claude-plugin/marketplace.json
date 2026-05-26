@@ -1,0 +1,7 @@
+{
+  "name": "read-paper",
+  "owner": { "name": "xiaotianzhao" },
+  "plugins": [
+    { "name": "read-paper", "source": "./" }
+  ]
+}
